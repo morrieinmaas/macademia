@@ -2,7 +2,7 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="783ca287-eaba-4a27-8df1-a7b40a1a08f6" name="macademia" url="http://sftp.dc2.gpaas.net">
+      <webServer id="7dbeed5e-da31-4636-b86a-5b3cb5ef69e5" name="macademia" url="http://sftp.dc2.gpaas.net">
         <fileTransfer host="sftp.dc2.gpaas.net" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/vhosts/www.macademia.guru/htdocs" accessType="SFTP" username="654714" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
